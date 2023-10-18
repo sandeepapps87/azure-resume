@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{04B7E098-86DC-4621-A1D4-A48E8381A96B}|Default">
+  <MonoDevelop.Ide.ItemProperties.backend.api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../.nuget/packages/microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1/build/Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator.targets">
+    <Files>
+      <File FileName="../../../../.nuget/packages/microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1/build/Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator.targets" Line="37" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="azure-resume">
+            <Node name="backend" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
