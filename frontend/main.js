@@ -2,11 +2,13 @@ window.addEventListener('DOMContentLoaded', (event) => {
   getVisitCount();
 });
 
-const functionApi = 'http://localhost:7071/api/GetResumeCounter';
+const prodFunctionApiUrl =
+  'https://getresumecounter-funcapp.azurewebsites.net/api/GetResumeCounter?code=Bhi36bhUorHMHmcg2QvoA8ygcidsVg7-csf_f-7tNqD8AzFubaCVmA==';
+const localFunctionApiUrl = 'http://localhost:7071/api/GetResumeCounter';
 
 const getVisitCount = () => {
   let count = 30;
-  fetch(functionApi)
+  fetch(prodFunctionApiUrl)
     .then((response) => {
       return response.json();
     })
